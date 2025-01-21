@@ -23,11 +23,16 @@ This is a Python-based GUI application that converts PDF files into JSON format.
 3. Run the application:
 
   python main.py
+  
 Usage
   Launch the application by running the main.py file.
+  
   Click on the "Select PDF and Convert" button.
+  
   Choose a PDF file from your computer.
+  
   Select a location to save the resulting JSON file.
+  
   The application will process the PDF and save its content in JSON format.
 
   
