@@ -13,16 +13,16 @@ This is a Python-based GUI application that converts PDF files into JSON format.
 
 1. Clone the repository:
    
-   git clone https://github.com/Lonrath/PDF-To-JSON-PC-app.git
-   cd pdf-to-json-converter
+      git clone https://github.com/Lonrath/PDF-To-JSON-PC-app.git
+      cd pdf-to-json-converter
 
 2. Install the required dependencies:
    
-  pip install pdfplumber
+     pip install pdfplumber
 
 3. Run the application:
 
-  python main.py
+     python main.py
   
 Usage
   Launch the application by running the main.py file.
