@@ -31,14 +31,7 @@ Usage
   The application will process the PDF and save its content in JSON format.
 
   
-JSON Output Example
-  {
-    "pdf_content": [
-        "First line of the PDF",
-        "Second line of the PDF",
-        "Third line of the PDF"
-    ]
-}
+
 
 
 Building an Executable File
